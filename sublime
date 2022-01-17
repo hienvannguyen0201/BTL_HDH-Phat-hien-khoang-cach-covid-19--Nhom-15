@@ -1,0 +1,243 @@
+[33mcommit 23c221b6a5132d233f8b06aa40705f62df37eddc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Sat May 23 17:31:38 2020 +0530
+
+    Update README.md
+
+[33mcommit 112dcd1240ab3e8af10761a21871537c8ff6f7b0[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Sat May 23 03:25:59 2020 +0530
+
+    Update README.md
+
+[33mcommit a2fcdabcacf7f180ec19fbc57ff2121d64801d3b[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Sat May 23 03:25:38 2020 +0530
+
+    Update README.md
+
+[33mcommit abe833f8969822dc2f532c48a7c7738b42853442[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Sat May 2 09:36:49 2020 +0530
+
+    Update README.md
+
+[33mcommit 9c40aa7026cf29aff8b8e21dad56e6c7b20259e6[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Fri May 1 13:31:40 2020 +0530
+
+    Update README.md
+
+[33mcommit 69a407d1d2c4c4ff0e51c845d63d78a2874673db[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Mon Apr 27 23:37:45 2020 +0530
+
+    minor optimization
+
+[33mcommit 42b1acc6b0feccb0362198b95869d9711db0b472[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Fri Apr 24 15:29:59 2020 +0530
+
+    Update LICENCE.md
+
+[33mcommit 812744cc7059012ba34867e53b4c5895e3e4171e[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Fri Apr 24 15:25:39 2020 +0530
+
+    Delete LICENSE
+
+[33mcommit 809cc3e0fd3ebf54e43078a0ab5b35722128c529[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Fri Apr 24 06:50:30 2020 +0530
+
+    Update README.md
+
+[33mcommit bf0ad1a4bd705254c747527b35a1b5881a6d4bd1[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Fri Apr 24 06:49:46 2020 +0530
+
+    updated UI
+
+[33mcommit b4280f16b8414bf91f4b02b719bab57aee5417d8[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Wed Apr 22 22:48:36 2020 +0530
+
+    UI components updates
+
+[33mcommit 904d47149abcd277b6cc48ef39e87fd3aecbc87b[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Wed Apr 22 22:42:01 2020 +0530
+
+    Update README.md
+
+[33mcommit a3d5781fa16fb52d8aec0c13c1fb7c9ea3b7c8d2[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Wed Apr 22 18:56:49 2020 +0530
+
+    Update social distancing analyser 2.0.py
+
+[33mcommit 6c590f57693ec34b95d3da12cae99e1564f7affd[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Wed Apr 22 18:37:18 2020 +0530
+
+    Update README.md
+
+[33mcommit fc835da6258af6a5c4760b5ee90adbacaa904a50[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Wed Apr 22 18:03:48 2020 +0530
+
+    Update README.md
+
+[33mcommit 618e8f55567b2d83fc8045cd5f295c0ea1f8530e[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Wed Apr 22 18:00:55 2020 +0530
+
+    Add files via upload
+
+[33mcommit e0700b09d1545206b8550be73c99ee83a12c2c23[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Wed Apr 22 17:33:00 2020 +0530
+
+    Update README.md
+
+[33mcommit b0c4766ca1043c3ef7c31c3be626d80bd388f9d4[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Wed Apr 22 15:46:01 2020 +0530
+
+    updated version with auto calibration
+    
+    you just need to set the angle factor between 0 to 1
+    
+    shift towards one if video angle becomes vertical
+
+[33mcommit d154215540c68f3bc7d0181984cc061c3b2b48ba[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Tue Apr 21 03:54:55 2020 +0530
+
+    Update README.md
+
+[33mcommit 29ae574dc69328ea834b4f23a92416ecf3981b11[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Mon Apr 20 23:50:14 2020 +0530
+
+    Update README.md
+
+[33mcommit 529b1b8517327ee91b2dfd9ebdb22db7f2d243c0[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Mon Apr 20 23:49:54 2020 +0530
+
+    Update README.md
+
+[33mcommit e2943de706e813addea1d386ff8e546e639ead62[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Mon Apr 20 23:43:07 2020 +0530
+
+    Update README.md
+
+[33mcommit 02f3e3df6c0493a391cee97c4e705d3055f09704[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Mon Apr 20 19:53:02 2020 +0530
+
+    Update README.md
+
+[33mcommit 8eb225247a78ef546665bc19cbed7c742cd6afbe[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Mon Apr 20 04:24:36 2020 +0530
+
+    Update README.md
+
+[33mcommit eacd9d419a549844422dfead0280a6e8b2cacd27[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Mon Apr 20 04:24:03 2020 +0530
+
+    Update README.md
+
+[33mcommit ca0093de9930935ac1997486f034cfffa388eb92[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Mon Apr 20 04:18:33 2020 +0530
+
+    Create LICENCE.md
+
+[33mcommit 2bc4b52912231c7c7a5ea4bb1ae2ef80b146ff1d[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Mon Apr 20 04:14:11 2020 +0530
+
+    Create LICENSE
+
+[33mcommit 26566a260a3846f3dad21dd6d36346440268b11c[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Mon Apr 20 04:11:51 2020 +0530
+
+    Add files via upload
+
+[33mcommit 1c57436b8ba52afcaac9df5a19c39b0dd5888b54[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Mon Apr 20 02:59:17 2020 +0530
+
+    Update README.md
+
+[33mcommit 38d72cb93ecc7160d6c24cbae5b66f2f72b94faa[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Mon Apr 20 02:58:32 2020 +0530
+
+    Update README.md
+
+[33mcommit 1b7ddfb174ec7a9a0aaa5378cae96dd44d1db31e[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Mon Apr 20 02:01:04 2020 +0530
+
+    Update README.md
+
+[33mcommit 3b7d56339a17ae801575c73bd46dad001e05bdff[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Mon Apr 20 02:00:27 2020 +0530
+
+    Update README.md
+
+[33mcommit 0522a78f0d4f261f9109a92148dfab8f43f41f76[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Mon Apr 20 01:41:00 2020 +0530
+
+    Update README.md
+
+[33mcommit 809b871517ff5dcc5963b5d4827c3d7dd5392035[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Sun Apr 19 03:24:02 2020 +0530
+
+    Update README.md
+
+[33mcommit 8ac083f9c8507361e850bb2ab4392acda7589db8[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Sun Apr 19 03:23:44 2020 +0530
+
+    Update README.md
+
+[33mcommit bf22fc1ffbe4047eeb96282987e9497299a2f2d3[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Sun Apr 19 03:22:41 2020 +0530
+
+    Update README.md
+
+[33mcommit 8b74af6833020496747a110ac42d0775a0741ad6[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Sun Apr 19 02:47:37 2020 +0530
+
+    Update README.md
+
+[33mcommit 0ae6bc11d376f6c40e29cdfd6ca20380ea7c5637[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Sun Apr 19 02:47:04 2020 +0530
+
+    Add files via upload
+
+[33mcommit 37b127d9678ae2ee300877cb5cced40b34b4c959[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Sun Apr 19 02:45:40 2020 +0530
+
+    Update README.md
+
+[33mcommit 31466a95a51b792c9f54f063a0cc5258b274db35[m
+Author: Ankush Chaudhari <32368722+Ank-Cha@users.noreply.github.com>
+Date:   Sun Apr 19 02:44:03 2020 +0530
+
+    Create README.md
